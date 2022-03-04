@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+C:\Users\aaron\Desktop\Marlborge Net\Marlborge Client\Marlborge Client\bin\Debug\net5.0\Marlborge Client.exe
+C:\Users\aaron\Desktop\Marlborge Net\Marlborge Client\Marlborge Client\bin\Debug\net5.0\Marlborge Client.deps.json
+C:\Users\aaron\Desktop\Marlborge Net\Marlborge Client\Marlborge Client\bin\Debug\net5.0\Marlborge Client.runtimeconfig.json
+C:\Users\aaron\Desktop\Marlborge Net\Marlborge Client\Marlborge Client\bin\Debug\net5.0\Marlborge Client.runtimeconfig.dev.json
+C:\Users\aaron\Desktop\Marlborge Net\Marlborge Client\Marlborge Client\bin\Debug\net5.0\Marlborge Client.dll
+C:\Users\aaron\Desktop\Marlborge Net\Marlborge Client\Marlborge Client\bin\Debug\net5.0\ref\Marlborge Client.dll
+C:\Users\aaron\Desktop\Marlborge Net\Marlborge Client\Marlborge Client\bin\Debug\net5.0\Marlborge Client.pdb
+C:\Users\aaron\Desktop\Marlborge Net\Marlborge Client\Marlborge Client\obj\Debug\net5.0\Marlborge Client.csproj.AssemblyReference.cache
+C:\Users\aaron\Desktop\Marlborge Net\Marlborge Client\Marlborge Client\obj\Debug\net5.0\Marlborge Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\Desktop\Marlborge Net\Marlborge Client\Marlborge Client\obj\Debug\net5.0\Marlborge Client.AssemblyInfoInputs.cache
+C:\Users\aaron\Desktop\Marlborge Net\Marlborge Client\Marlborge Client\obj\Debug\net5.0\Marlborge Client.AssemblyInfo.cs
+C:\Users\aaron\Desktop\Marlborge Net\Marlborge Client\Marlborge Client\obj\Debug\net5.0\Marlborge Client.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Desktop\Marlborge Net\Marlborge Client\Marlborge Client\obj\Debug\net5.0\Marlborge Client.dll
+C:\Users\aaron\Desktop\Marlborge Net\Marlborge Client\Marlborge Client\obj\Debug\net5.0\ref\Marlborge Client.dll
+C:\Users\aaron\Desktop\Marlborge Net\Marlborge Client\Marlborge Client\obj\Debug\net5.0\Marlborge Client.pdb
+C:\Users\aaron\Desktop\Marlborge Net\Marlborge Client\Marlborge Client\obj\Debug\net5.0\Marlborge Client.genruntimeconfig.cache
+=======
+>>>>>>> e31383456c27a1363748d000e01d42c798f98c89
